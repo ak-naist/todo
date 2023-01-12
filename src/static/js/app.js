@@ -3,6 +3,7 @@ function App() {
     return (
         <Container>
             <Row>
+                <head>To Do App by ak-naist</head>
                 <Col md={{ offset: 3, span: 6 }}>
                     <TodoListCard />
                 </Col>
